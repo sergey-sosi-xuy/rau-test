@@ -1,5 +1,5 @@
 {
-    "clientVersionCode": 100,
+    "clientVersionCode": 101,
     "gameFilesVersionCode": 100,
     "URL_GAME_FILES" : "http://a0739231.xsph.ru/game.zip",
     "URL_GAME_FILES_UPD" : "https://files_upd.zip",
@@ -8,5 +8,5 @@
     "URL_YOUTUBE": "https://t.me/",
     "URL_FORUM": "https://f.ru-state.online/",
     "URL_DONATE": "https://ru-state.online/",
-    "URL_CLIENT": "https://api.ru-state.online/"
+    "URL_CLIENT": "http://a0739231.xsph.ru/game/cleint.apk"
 }
