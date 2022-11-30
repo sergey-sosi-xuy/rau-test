@@ -4,11 +4,5 @@
 		"port": 7807,
 		"id": 1,
 		"name":"Smart Role Play"
-	},
-	{
-		"ip": "194.226.49.34",
-		"port": 7809,
-		"id": 2,
-		"name":"Omsk Mobile"
 	}
 ]
